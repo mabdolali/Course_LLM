@@ -2,7 +2,7 @@
 
 Hands-on materials and tutorials for the **Large Language Models (LLM)** course.
 
-https://sites.google.com/view/maryamabdolali/teaching/text-language-processing-fall-2025
+https://sites.google.com/view/maryamabdolali/teaching/text-language-processing-fall-2026
 
 The repository complements the lectures with practical notebooks covering both the foundations of LLMs and modern tools for building LLM-based applications.
 
