@@ -13,6 +13,7 @@ secrets.yaml
 # Python environments and caches
 # ---------------------------------------------------------------------------
 .venv/
+course_llm/
 venv/
 env/
 __pycache__/
