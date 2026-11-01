@@ -1,5 +1,7 @@
 # Large Language Models (LLM) Course
 
+![Large Language Models: Learn, Build, Experiment](images/intro.png)
+
 Hands-on materials and tutorials for the **Large Language Models (LLM)** course.
 
 https://sites.google.com/view/maryamabdolali/teaching/text-language-processing-fall-2026
