@@ -35,7 +35,7 @@ chroma.sqlite3
 *.sqlite3
 *.db
 
-# tutorial 5: Trainer checkpoints and the saved model
+# tutorial 8: Trainer checkpoints and the saved model
 sentiment-distilbert/
 runs/
 wandb/
@@ -62,3 +62,6 @@ llm agents/
 .DS_Store
 Thumbs.db
 desktop.ini
+
+# Files written by the agents in 05_Deep_Agents.ipynb (FilesystemBackend workspace)
+deep_agent_workspace/
