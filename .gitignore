@@ -43,9 +43,8 @@ wandb/
 # tutorial 1: tokenizers saved with save_pretrained
 my-tokenizer/
 
-# bonus notebook (multimodal RAG): the PDF it downloads and slices
-attention_full.pdf
-attention_p1-9.pdf
+# bonus notebook (multimodal RAG): the PDF it downloads
+content/
 
 # model/dataset caches, if HF_HOME is pointed inside the repo
 .cache/
