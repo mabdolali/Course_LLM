@@ -62,6 +62,3 @@ llm agents/
 .DS_Store
 Thumbs.db
 desktop.ini
-
-# Files written by the agents in 05_Deep_Agents.ipynb (FilesystemBackend workspace)
-deep_agent_workspace/
